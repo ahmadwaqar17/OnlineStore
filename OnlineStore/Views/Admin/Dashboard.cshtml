@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    var dailySales = ViewBag.DailySales;
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .chart-container {
+            position: relative;
+            height: 400px; /* Adjust height as needed */
+            width: 100%; /* Full width */
+        }
+
+        .chart-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Admin Dashboard</h2>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="chart-container">
+                    <h3 class="chart-title">Daily Sales</h3>
+                    <canvas id="salesChart"></canvas>
+                </div>
+                <br />
+                <br />
+                <br />
+                <br />
+
+                <div class="mt-4">
+                    <a href="@Url.Action("Fulfillment")" class="btn btn-primary btn-lg mt-3">Fulfillment</a>
+                    <a href="@Url.Action("AddProduct", "Admin")" class="btn btn-secondary btn-lg mt-3">Add New Product</a>
+                    <a href="@Url.Action("ProductList", "Admin")" class="btn btn-primary btn-lg mt-3">Update Product</a>
+                    <a href="@Url.Action("ProcessingCarts")" class="btn btn-info btn-lg mt-3">View Processing Carts</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var ctx = document.getElementById('salesChart').getContext('2d');
+
+            var labels = [];
+            var data = [];
+            var backgroundColors = [];
+
+        @foreach (var sale in dailySales)
+        {
+            <text>
+                    labels.push('@sale.Date');
+                data.push(@sale.TotalSales);
+                backgroundColors.push('rgba(75, 192, 192, 0.6)'); // Consistent color for bars
+            </text>
+        }
+
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Total Sales',
+                            data: data,
+                            backgroundColor: backgroundColors,
+                            borderColor: backgroundColors.map(color => color.replace('0.6', '1')), // Make border color slightly darker
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    fontSize: 16,
+                                    fontWeight: 'bold'
+                                }
+                            },
+                            x: {
+                                ticks: {
+                                    fontSize: 14,
+                                    fontWeight: 'bold'
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false // Hide the legend for a cleaner look
+                            },
+                            tooltip: {
+                                enabled: true
+                            },
+                            datalabels: {
+                                display: true,
+                                align: 'end',
+                                anchor: 'end',
+                                formatter: (value) => value.toLocaleString(), // Format numbers with commas
+                                color: '#000',
+                                font: {
+                                    weight: 'bold',
+                                    size: 14
+                                }
+                            }
+                        },
+                        maintainAspectRatio: false, // Ensure chart maintains aspect ratio when resizing
+                        responsive: true
+                    }
+                });
+        });
+    </script>
+</body>
+</html>

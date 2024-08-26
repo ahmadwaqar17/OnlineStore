@@ -1,0 +1,60 @@
+﻿@model IEnumerable<OnlineStore.Models.Cart>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processing Carts</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            color: white;
+            background-color: #343a40; /* Dark background to contrast with white text */
+        }
+
+        .table th, .table td {
+            color: white; /* Ensure table text is white */
+        }
+
+        .btn-secondary {
+            color: white; /* Button text color */
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h2>Processing Carts</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Product ID</th>
+                    <th>Email</th>
+                    <th>Order Status</th>
+                    <th>Action</th> <!-- New Column Header -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cart in Model)
+                {
+                    <tr>
+                        <td>@cart.Id</td>
+                        <td>@cart.Pid</td>
+                        <td>@cart.Email</td>
+                        <td>@cart.OrderStatus</td>
+                        <td>
+                            <a href="mailto:@cart.Email?subject=Reminder: Your Cart is Waiting for You&body=Dear Customer,%0A%0AWe noticed that you have items left in your cart. We understand that life can get busy, so we wanted to send you a friendly reminder about your cart that is still waiting for you.%0A%0AIf you need any assistance or have any questions, please don't hesitate to reach out. We are here to help you with your shopping experience.%0A%0AThank you for choosing us!%0A%0ABest regards,%0AThe [Your Company Name] Team" class="btn btn-info btn-sm">Send Email Reminder</a>
+                        </td> <!-- New Column Data -->
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a href="@Url.Action("Dashboard", "Admin")" class="btn btn-secondary mt-3">Back to Dashboard</a>
+    
+    </div>
+</body>
+</html>

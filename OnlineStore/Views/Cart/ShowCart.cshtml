@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Show Cart";
+    var email = ViewData["Email"] as string; // Retrieve email from ViewData
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+    <!-- Custom Styles -->
+    <style>
+        body {
+            background-color: #343a40; /* Dark background */
+            color: #f8f9fa; /* Light foreground text */
+        }
+
+        .form-control, .btn {
+            background-color: #495057; /* Dark background for form elements */
+            color: #f8f9fa; /* Light text color */
+            border: 1px solid #ced4da; /* Light border color */
+        }
+
+            .form-control:focus, .btn-primary {
+                border-color: #ced4da;
+                box-shadow: none;
+            }
+
+        .btn-primary {
+            background-color: #007bff; /* Primary button color */
+            border-color: #007bff;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3; /* Button hover color */
+                border-color: #004085;
+            }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-white">Show Cart</h2>
+        <form method="post" class="bg-dark text-light p-4 rounded-md">
+            <div class="form-group mb-4">
+                <label for="email" class="block text-light">Enter your email:</label>
+                <div class="input-group">
+                    <span class="input-group-text bg-dark text-light"><i class="bi bi-envelope"></i></span>
+                    <input type="email" class="form-control" id="email" name="email" value="@email" required />
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-cart"></i> Show Cart
+            </button>
+        </form>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

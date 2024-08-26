@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Test Session";
+}
+
+<h2>Session Test</h2>
+
+@if (Model != null)
+{
+    <p>Email stored in session: <strong>@Model</strong></p>
+}
+else
+{
+    <p>No email found in session.</p>
+}

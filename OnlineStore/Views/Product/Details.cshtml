@@ -1,0 +1,137 @@
+﻿@model OnlineStore.Models.Product
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+
+        .hero {
+            background-color: #1d1d1d;
+            color: #ffffff;
+            padding: 50px 0;
+            text-align: center;
+        }
+
+            .hero h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+            }
+
+            .hero p {
+                font-size: 1.5rem;
+            }
+
+        .card {
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+            border: none;
+        }
+
+        .card-img-top {
+            height: 400px;
+            object-fit: cover;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+            }
+
+        .modal-content {
+            background-color: #1e1e1e;
+            color: #e0e0e0;
+        }
+
+        .form-control, .btn-primary {
+            background-color: #333;
+            color: #e0e0e0;
+            border: 1px solid #444;
+        }
+
+            .form-control:focus, .btn-primary {
+                border-color: #555;
+                box-shadow: none;
+            }
+
+                .btn-primary:hover {
+                    background-color: #0056b3;
+                    border-color: #004085;
+                }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <h1>Product Details</h1>
+        </div>
+    </header>
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="@Model.ImagePath" class="img-fluid" alt="@Model.Name">
+            </div>
+            <div class="col-md-6">
+                <h2>@Model.Name</h2>
+                <p><strong>Description:</strong> @Model.Description</p>
+                <p><strong>Category:</strong> @Model.Category</p>
+                <p><strong>Price:</strong> $@Model.Price</p>
+                <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#emailModal" data-productid="@Model.Pid">
+                    <i class="bi bi-cart-plus"></i> Add to Cart
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Email Modal -->
+    <div class="modal fade" id="emailModal" tabindex="-1" aria-labelledby="emailModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="emailModalLabel"><i class="bi bi-cart-plus"></i> Add to Cart</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="emailForm" asp-controller="LandingPage" asp-action="SubmitCart" method="post">
+                        <input type="hidden" id="productId" name="productId" />
+                        <div class="form-group mb-3">
+                            <label for="email"><i class="bi bi-envelope"></i> Enter your email:</label>
+                            <input type="email" class="form-control" id="email" name="email" required />
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-3"><i class="bi bi-check-circle"></i> Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Set the product ID in the hidden field of the form when the modal is shown
+        var emailModal = document.getElementById('emailModal');
+        emailModal.addEventListener('show.bs.modal', function (event) {
+            var button = event.relatedTarget; // Button that triggered the modal
+            var productId = button.getAttribute('data-productid'); // Extract info from data-* attributes
+            var modalProductIdInput = document.getElementById('productId');
+            modalProductIdInput.value = productId; // Update the hidden input field with product ID
+        });
+    </script>
+</body>
+</html>

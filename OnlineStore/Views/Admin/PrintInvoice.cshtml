@@ -1,0 +1,179 @@
+﻿@{
+   
+    ViewData["Title"] = "Print Invoice";
+    var deliveryInfos = ViewBag.DeliveryInfos as IEnumerable<dynamic>;
+    var totalPrice = ViewBag.TotalPrice as decimal?;
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f4f7f6;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .invoice-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .invoice-header img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+
+        .invoice-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .invoice-info {
+            margin-bottom: 30px;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+
+        .invoice-info div {
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+
+        .table thead th {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 12px;
+        }
+
+        .table tbody td {
+            text-align: center;
+            padding: 12px;
+        }
+
+        .table tfoot th {
+            background-color: #f1f1f1;
+            font-weight: bold;
+            text-align: center;
+            padding: 12px;
+        }
+
+        .btn-print {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        .btn-print:hover {
+            background-color: #218838;
+        }
+
+        media print {
+            .no-print {
+                display: none;
+            }
+
+            body {
+                color: #000;
+            }
+
+            .container {
+                width: 100%;
+                padding: 0;
+                margin: 0;
+                box-shadow: none;
+                border: none;
+            }
+
+            .table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            .table th, .table td {
+                border: 1px solid #000;
+                padding: 8px;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="invoice-header">
+            <img src="https://via.placeholder.com/150" alt="Company Logo">
+            <div class="invoice-title">Invoice</div>
+        </div>
+
+        <div class="invoice-info">
+            <div><strong>Invoice Date:</strong> @DateTime.Now.ToString("MM/dd/yyyy")</div>
+            <div><strong>Invoice Number:</strong> INV-@Guid.NewGuid().ToString().Substring(0, 8)</div>
+        </div>
+
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>City</th>
+                    <th>Street</th>
+                    <th>Area</th>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in deliveryInfos)
+                {
+                    <tr>
+                        <td>@item.di.Email</td>
+                        <td>@item.di.Phone</td>
+                        <td>@item.di.City</td>
+                        <td>@item.di.Street</td>
+                        <td>@item.di.Area</td>
+                        <td>@item.p.Name</td>
+                        <td>@item.p.Price.ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th colspan="6">Total Price</th>
+                    <td>@totalPrice.Value.ToString("C")</td>
+                </tr>
+            </tfoot>
+        </table>
+
+        <button onclick="printInvoice()" class="btn btn-print no-print">Print Invoice</button>
+    </div>
+    <a href="@Url.Action("Dashboard", "Admin")" class="btn btn-secondary mt-3">Back to Dashboard</a>
+
+    <script>
+        function printInvoice() {
+            window.print();
+        }
+    </script>
+</body>
+</html>

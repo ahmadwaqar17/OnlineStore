@@ -1,0 +1,941 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\onlinestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\onlinestore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\cart\\cartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\cart\\cartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\models\\deliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\deliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101203_loginuser111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240818101203_loginuser111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101036_loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240818101036_loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100935_usetable11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240818100935_usetable11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100319_usetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240818100319_usetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\printinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\printinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\cart\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\cart\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\fulfillment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\fulfillment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\processingcarts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\processingcarts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807112322_removefk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807112322_removefk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807112502_removefk1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807112502_removefk1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807105627_updateddeliveryinfotabke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807105627_updateddeliveryinfotabke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807070316_addorderstatustocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807070316_addorderstatustocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240806122503_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240806122503_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240810105242_usertabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240810105242_usertabe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\login\\testsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\login\\testsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240806150711_carttablechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240806150711_carttablechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807111849_imagepathlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807111849_imagepathlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807111333_addedidindeliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807111333_addedidindeliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807111011_updateddeliveryinfotabk111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807111011_updateddeliveryinfotabk111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240807110516_updateddeliveryinfotabk1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240807110516_updateddeliveryinfotabk1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240808122549_addeddatetodeliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240808122549_addeddatetodeliveryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|c:\\users\\ahmad\\source\\repos\\onlinestore\\onlinestore\\migrations\\20240818101344_loginuser111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE29AE-EED4-4FBD-AB64-0990D4396707}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\migrations\\20240818101344_loginuser111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:37:07.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Program.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Program.cs",
+              "RelativeToolTip": "OnlineStore\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:35:45.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:07:01.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAowH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:37:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:51:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\appsettings.json",
+              "RelativeToolTip": "OnlineStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T11:40:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LandingPageController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\LandingPageController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\LandingPageController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\LandingPageController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\LandingPageController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:59:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:42:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnlineStore.csproj",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+              "RelativeDocumentMoniker": "OnlineStore\\OnlineStore.csproj",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
+              "RelativeToolTip": "OnlineStore\\OnlineStore.csproj",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T10:41:49.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineStore\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:36:49.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:44:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnlineStore\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:01:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\CartItems.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Cart\\CartItems.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\CartItems.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Cart\\CartItems.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T17:38:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:45:08.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAmwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T13:02:54.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeliveryInfo.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\DeliveryInfo.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\DeliveryInfo.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\DeliveryInfo.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\DeliveryInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:38:40.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\UserLogin.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:08:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240818101344_loginuser111.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101344_loginuser111.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240818101344_loginuser111.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101344_loginuser111.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240818101344_loginuser111.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:13:44.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240818100935_usetable11.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100935_usetable11.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240818100935_usetable11.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100935_usetable11.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240818100935_usetable11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:09:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240818101036_loginuser.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101036_loginuser.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240818101036_loginuser.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101036_loginuser.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240818101036_loginuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:10:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240818101203_loginuser111.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101203_loginuser111.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240818101203_loginuser111.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818101203_loginuser111.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240818101203_loginuser111.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:12:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240818100319_usetable.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100319_usetable.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240818100319_usetable.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240818100319_usetable.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240818100319_usetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:03:19.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PrintInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\PrintInvoice.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\PrintInvoice.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\PrintInvoice.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\PrintInvoice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T14:34:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:53:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\LandingPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\LandingPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\LandingPage\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\LandingPage\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAHIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T12:05:11.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAmwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T10:43:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_Login.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_Login.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T16:29:12.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShowCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\ShowCart.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Cart\\ShowCart.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Cart\\ShowCart.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Cart\\ShowCart.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T17:38:09.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwHYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T12:02:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Fulfillment.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Fulfillment.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\Fulfillment.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Fulfillment.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\Fulfillment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:43:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\ProductList.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:23:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:15:15.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProcessingCarts.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\ProcessingCarts.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\ProcessingCarts.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\ProcessingCarts.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\ProcessingCarts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:01:07.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:00:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T18:32:14.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:34:26.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\Cart.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\Cart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:38:14.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240807112322_removefk.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807112322_removefk.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807112322_removefk.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807112322_removefk.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807112322_removefk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:23:22.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240807112502_removefk1.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807112502_removefk1.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807112502_removefk1.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807112502_removefk1.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807112502_removefk1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:25:02.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240807105627_updateddeliveryinfotabke.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807105627_updateddeliveryinfotabke.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807105627_updateddeliveryinfotabke.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807105627_updateddeliveryinfotabke.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807105627_updateddeliveryinfotabke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:56:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240807070316_AddOrderStatusToCart.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807070316_AddOrderStatusToCart.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807070316_AddOrderStatusToCart.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807070316_AddOrderStatusToCart.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807070316_AddOrderStatusToCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:03:16.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240806122503_addedreqtbles.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806122503_addedreqtbles.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240806122503_addedreqtbles.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806122503_addedreqtbles.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240806122503_addedreqtbles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:25:03.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\Product.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:37:34.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240810105242_usertabe.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240810105242_usertabe.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240810105242_usertabe.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240810105242_usertabe.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240810105242_usertabe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:52:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OnlineStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:25:36.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TestSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Login\\TestSession.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Login\\TestSession.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Login\\TestSession.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Login\\TestSession.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T10:45:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240808125005_addeddatetodeliveryinfo2.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240808125005_addeddatetodeliveryinfo2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:50:05.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240808122549_addeddatetodeliveryinfo.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240808122549_addeddatetodeliveryinfo.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240808122549_addeddatetodeliveryinfo.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240808122549_addeddatetodeliveryinfo.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240808122549_addeddatetodeliveryinfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:25:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240807111849_imagepathlenght.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111849_imagepathlenght.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807111849_imagepathlenght.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111849_imagepathlenght.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807111849_imagepathlenght.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:18:49.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20240807111333_addedidindeliveryinfo.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111333_addedidindeliveryinfo.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807111333_addedidindeliveryinfo.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111333_addedidindeliveryinfo.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807111333_addedidindeliveryinfo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:13:33.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240807111011_updateddeliveryinfotabk111.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111011_updateddeliveryinfotabk111.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807111011_updateddeliveryinfotabk111.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807111011_updateddeliveryinfotabk111.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807111011_updateddeliveryinfotabk111.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:10:11.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240807110516_updateddeliveryinfotabk1.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807110516_updateddeliveryinfotabk1.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240807110516_updateddeliveryinfotabk1.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240807110516_updateddeliveryinfotabk1.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240807110516_updateddeliveryinfotabk1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:05:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineStore\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "OnlineStore\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAkwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T13:37:54.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240806150711_carttablechange.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806150711_carttablechange.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240806150711_carttablechange.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806150711_carttablechange.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240806150711_carttablechange.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:07:11.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240806114658_addedreqtbles.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240806114658_addedreqtbles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:46:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240806114530_addedreqtbles.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240806114530_addedreqtbles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:45:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240806114330_addedreqtbles.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\source\\repos\\OnlineStore\\OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs",
+              "RelativeToolTip": "OnlineStore\\Migrations\\20240806114330_addedreqtbles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:43:30.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
